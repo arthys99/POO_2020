@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ANDROID-TP02</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="connexion">Connexion</string>
+    <string name="tapezMsg">Tapez votre message</string>
+    <string name="listes">List</string>
+</resources>
